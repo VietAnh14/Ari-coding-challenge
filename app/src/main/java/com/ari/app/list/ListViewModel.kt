@@ -3,7 +3,7 @@ package com.ari.app.list
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
 import com.ari.app.data.AppRepo
-import com.ari.app.data.PokemonInfo
+import com.ari.app.data.model.PokemonInfo
 import dagger.hilt.android.lifecycle.HiltViewModel
 import kotlinx.coroutines.CancellationException
 import kotlinx.coroutines.Dispatchers

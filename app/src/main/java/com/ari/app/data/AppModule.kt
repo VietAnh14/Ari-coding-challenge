@@ -1,5 +1,6 @@
 package com.ari.app.data
 
+import com.ari.app.data.remote.ApiService
 import com.squareup.moshi.Moshi
 import dagger.Module
 import dagger.Provides

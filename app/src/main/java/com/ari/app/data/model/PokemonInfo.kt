@@ -1,4 +1,4 @@
-package com.ari.app.data
+package com.ari.app.data.model
 
 data class PokemonInfo(
     val id: Int,

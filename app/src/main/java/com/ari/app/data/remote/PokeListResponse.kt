@@ -1,7 +1,7 @@
 package com.ari.app.data.remote
 
 
-import com.ari.app.data.PokemonInfo
+import com.ari.app.data.model.PokemonInfo
 import com.squareup.moshi.Json
 import com.squareup.moshi.JsonClass
 
